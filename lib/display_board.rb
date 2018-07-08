@@ -15,4 +15,32 @@ def display_board(board)
   puts "   |   |   "
 end
 
+
+
+
+board = [" "," "," "," "," "," "," "," "," "]
+
+
+
+
+
+
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+
+
+
+
+
 display_board
+
+
+
+
+
+
+
+
